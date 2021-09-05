@@ -1,0 +1,25 @@
+# Project exclude paths
+/.gradle/
+/Cinema Room Manager/task/build/
+/Cinema Room Manager/task/out/
+/Cinema Room Manager/task/out/production/classes/
+/Topics/Multi-dimensional array/Accordance/out/
+/Topics/Multi-dimensional array/Accordance/out/production/classes/
+/Topics/Relational operators/Groundhogs at the party/out/
+/Topics/Relational operators/Groundhogs at the party/out/production/classes/
+/Topics/Taming exceptions/Handle number format exception/out/
+/Topics/Taming exceptions/Handle number format exception/out/production/classes/
+/Topics/When expression/Strings as objects/out/
+/Topics/When expression/Strings as objects/out/production/classes/
+/Topics/While loops/Collatz conjecture/out/
+/Topics/While loops/Collatz conjecture/out/production/classes/
+/Topics/While loops/The first position of the largest element/out/
+/Topics/While loops/The first position of the largest element/out/production/classes/
+/Topics/While loops/The sequence 1 2 2 3 3 3/out/
+/Topics/While loops/The sequence 1 2 2 3 3 3/out/production/classes/
+/Topics/Working with strings/N-th symbol/out/
+/Topics/Working with strings/N-th symbol/out/production/classes/
+/Topics/Working with strings/The information about a person/out/
+/Topics/Working with strings/The information about a person/out/production/classes/
+/Topics/Working with strings/The number of tens/out/
+/Topics/Working with strings/The number of tens/out/production/classes/
